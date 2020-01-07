@@ -56,9 +56,6 @@ body{
 .contact_form .card{
   padding: 50px;
 }
-.contact_address .contact_address_detail{
-  /* padding: 20px 0 0 20px; */
-}
 .contact_address_detail ul{
   list-style: none;
 }

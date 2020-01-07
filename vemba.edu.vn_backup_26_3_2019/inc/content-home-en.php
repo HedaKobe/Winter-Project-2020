@@ -116,6 +116,17 @@
                     executives who want to elevate their management skills.</p>
                 
             </div>
+            <!-- section newsfeed -->
+            <section class="newsfeed" id="website">
+                <div class="title">
+                    <div class="displayFlex"><i class="fas fa-chevron-down"></i>
+                        <h4>News section</h4>
+                    </div>
+                </div>
+                <div class="child">
+                <p>www.shidler.hawaii.edu/vietnam</p>
+	            </div>
+            </section>
             <!-- section why do we choose vemba -->
             <section id="choosevemba">
                 <div class="title down">
