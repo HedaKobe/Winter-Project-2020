@@ -10,15 +10,14 @@
                             <div class="dropdown largerScreen">
                                 <div class="displayFlex header-hover">
                                     <h1 class="title-header">
-                                        <button class="dropbtn button-menu" id="">Executive MBA</button> <i class="fas fa-chevron-down"></i></h1>
+                                        <button class="dropbtn button-menu" id="">Executive MBA</button><i class="fas fa-chevron-down"></i></h1>
                                 </div>
                                 <div class="dropdown-content menu-item">
-                                    <a class="dropdown-item choosevemba" href="javascript:void(0)">The program
-                                        advantages</a>
+                                    <a class="dropdown-item choosevemba" href="javascript:void(0)">The program advantages</a>
                                     <a class="dropdown-item program" href="javascript:void(0)">The programcurriculum</a>
                                     <a class="dropdown-item  student" href="javascript:void(0)">Alumni testimonials</a>
                                     <a class="dropdown-item  company" href="javascript:void(0)">Companies represented</a>
-				<a class="dropdown-item  upcoming" href="javascript:void(0)">Coming event</a>
+				                    <a class="dropdown-item  upcoming" href="javascript:void(0)">Coming event</a>
                                     <a class="dropdown-item request" href="javascript:void(0)">Entry requirements</a>
                                     <a class="dropdown-item procedure" href="javascript:void(0)">Application guide</a>
                                     <a class="dropdown-item fee" href="javascript:void(0)">Tuition & fees</a>
@@ -36,8 +35,8 @@
                                         advantages</a>
                                         <a class="nav-link menu-item program" href="javascript:void(0)">The programcurriculum</a>
                                         <a class="nav-link menu-item student" href="javascript:void(0)">Alumni testimonials</a>
-					<a class="nav-link menu-item company" href="javascript:void(0)">Companies represented</a>
-					<a class="nav-link menu-item upcoming" href="javascript:void(0)">Coming event</a>
+				                    	<a class="nav-link menu-item company" href="javascript:void(0)">Companies represented</a>
+				                    	<a class="nav-link menu-item upcoming" href="javascript:void(0)">Coming event</a>
                                         <a class="nav-link menu-item request" href="javascript:void(0)">Entry requirements</a>
                                         <a class="nav-link menu-item procedure" href="javascript:void(0)">Application guide</a>
                                         <a class="nav-link menu-item fee" href="javascript:void(0)">Tuition & fees</a>
