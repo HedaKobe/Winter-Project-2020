@@ -3,7 +3,8 @@
  * @package Academica
  */
 
-get_header(); ?>
+get_header(); 
+?>
 
 <div id="content" class="clearfix">
 
